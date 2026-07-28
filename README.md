@@ -1,2 +1,2 @@
 # Portfolio
-Nil Padhiar's Design portfolio show casing all of his projects.
+Nil Padhiar's Design portfolio showing all of his projects.
